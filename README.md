@@ -1,2 +1,2 @@
 # c-primer-
-c++primer的所有练习答案
+自写c++primer大部分的练习答案
